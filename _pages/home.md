@@ -46,9 +46,9 @@ Our research is chiefly focused on understanding quantum many-body phenomena in 
   </a>
 </div>
 
-We develop and use theoretical and numerical methods to understand and exploit quantum optics systems composed of many atoms. We also work closely with experimental groups around the world to realise new quantum states of light, and new quantum many-body physics with photons. We are interested in answering fundamental physics questions in quantum optics and using our understanding in this area to help build new quantum technologies. For more information see our [Research](/research) page
+Our group develops and uses theoretical and numerical methods to understand and exploit quantum optics systems composed of many atoms. We work closely with experimental groups around the world to realise new quantum states of light, and new quantum many-body physics with photons. We are interested in answering fundamental physics questions in quantum optics and using our understanding in this area to help build new quantum technologies. For more information see our [Research](/research) page
 
 Our group is located at The University of Sydney, Australia's oldest University. It has a beautiful campus and is located in one of the most beautiful cities in the world! 
 
-Our group is part of the larger Quantum-Theory group in the School of Physics.
+We are part of the larger Quantum-Theory group in the School of Physics.
 
