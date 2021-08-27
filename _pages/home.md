@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the website of the Quantum Optics Theory Group at The University Sydney! As our name suggests, we are a quantum optics theory group working at [The University of Sydney](http://sydney.edu.au) in the [School of Physics](https://www.sydney.edu.au/science/schools/school-of-physics.html). The group is led by Sahand Mahmoodian who is a Senior Lecturer and Australian Research Council Future Fellow. 
+Welcome to the website of the Quantum Optics Theory Group at The University Sydney! As our name suggests, we are a quantum optics theory group working at [The University of Sydney](http://sydney.edu.au) in the [School of Physics](https://www.sydney.edu.au/science/schools/school-of-physics.html). The group is led by Sahand Mahmoodian who is an Australian Research Council Future Fellow. 
 
 Our research is chiefly focused on understanding quantum many-body phenomena in quantum optical systems. These systems can be used to create new quantum states of light which can be useful for quantum technologies. 
 
