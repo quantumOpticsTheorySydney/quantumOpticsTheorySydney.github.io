@@ -13,7 +13,7 @@ We are always looking for enthusiastic students and postdocs to join the group! 
 
 ### PhD Positions
 
-**We currently have funding for two new PhD positions. See our flyer.**
+**We currently have funding for two new PhD positions. See our [flyer](/downloads/PhdOptics2021.pdf).**
 
 If you are interested in working with us as a PhD student, please send me an [email](mailto:sahand.mahmoodian@sydney.edu.au). In your email please state why you are interested in the role, and please include information about your grades as an undergraduate (e.g. an academic transcript). You don't need to attach a cover letter. Please insert _"Application PhD"_ in the subject line.
 
