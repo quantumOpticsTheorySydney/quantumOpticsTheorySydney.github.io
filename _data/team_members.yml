@@ -8,11 +8,15 @@
 - name: Haoyuan (Jacky) Luo
   photo: jacky_pic.jpg
   info: PhD candidate, (Jul 22 - )
-  email: hluo9119@uni.sydney.edu.au
- # bio: See my [CV](/downloads/MahmoodianCV.pdf) here. 
- # pubs: See [Google Scholar](https://scholar.google.com.au/citations?view_op=list_works&hl=en&hl=en&user=PVdQntQAAAAJ) for my publications.
+
+
+- name: Yuktee Gupta
+  photo: Yuktee_pic.jpg
+  info: PhD candidate, (Oct 22 - )
+
+
 - name: Hugo Stackhouse
-#  photo: sahand.jpg
+  photo: bio-photo.jpg
   info: Honours student, (Feb 22 - )
 #  email: hluo9119@uni.sydney.edu.au
   
