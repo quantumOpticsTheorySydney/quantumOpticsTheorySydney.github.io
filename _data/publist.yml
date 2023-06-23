@@ -1,3 +1,18 @@
+- title: "Photon bound state dynamics from a single artificial atom"
+  image: NATPHYS_fig.jpg
+  description: Can describe the paper here. Give the arxiv link!!
+  authors: Natasha Tomm, Sahand Mahmoodian, Nadia O. Antoniadis, Rüdiger Schott, Sascha R. Valentin, Andreas D. Wieck, Arne Ludwig, Alisa Javadi & Richard J. Warburton 
+  link:
+    url: https://www.nature.com/articles/s41567-023-01997-6
+    display:  Nature Physics volume 19, pages 857–862 (2023)
+  link2:
+    url: https://arxiv.org/abs/2205.03309
+    display:  arXiv:2205.03309
+  highlight: 1
+  news2: This work was highlighted in a number of articles including in [Newsweek](https://www.newsweek.com/quantum-physics-light-photon-breakthrough-1789853), [The Canberra Times](https://www.canberratimes.com.au/story/8128707/scientists-closer-to-using-quantum-light-in-medicine/?cspt=1679341535%7C6e518f8744957f36a27be2443118f900), [Phys.org](https://phys.org/news/2023-03-scientists-door-quantum.html) and [COSMOS](https://cosmosmagazine.com/science/physics/quantum-light-manipulating-interacting-photons/)!
+  
+
+
 - title: "Dynamics of many-body photon bound states in chiral waveguide QED"
   image: PRX_boundCorr.png
   description: Can describe the paper here. Give the arxiv link!!

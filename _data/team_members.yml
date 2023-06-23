@@ -19,6 +19,15 @@
   photo: bio-photo.jpg
   info: Honours student, (Feb 22 - )
 #  email: hluo9119@uni.sydney.edu.au
+
+- name: Noe Demazure
+  photo: noeDemazure_pic.jpg
+  info: Masters student (visiting from ENS Paris-Saclay), (Nov 22 - )
+  
+- name: Justin Yu
+  photo: justinYu_pic.png
+  info: Third-year BSc project (Feb 22 -)
+  
   
   
 #- name: Alice Bob

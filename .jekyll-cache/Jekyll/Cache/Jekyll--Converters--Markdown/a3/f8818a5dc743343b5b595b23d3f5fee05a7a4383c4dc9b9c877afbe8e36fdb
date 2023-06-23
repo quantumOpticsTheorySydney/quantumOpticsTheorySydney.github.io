@@ -1,10 +1,22 @@
-I"|<h1 id="publications">Publications</h1>
+I"�<h1 id="publications">Publications</h1>
 
 <p>For a full list of Sahand’s publications see his <a href="https://scholar.google.com.au/citations?user=PVdQntQAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar profile</a>.</p>
 
 <h2 id="highlights">Highlights</h2>
 
 <div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Photon bound state dynamics from a single artificial atom</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/NATPHYS_fig.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><em>Natasha Tomm, Sahand Mahmoodian, Nadia O. Antoniadis, Rüdiger Schott, Sascha R. Valentin, Andreas D. Wieck, Arne Ludwig, Alisa Javadi &amp; Richard J. Warburton</em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41567-023-01997-6">Nature Physics volume 19, pages 857–862 (2023)</a></strong></p>
+      <p><strong><a href="https://arxiv.org/abs/2205.03309">arXiv:2205.03309</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> This work was highlighted in a number of articles including in <a href="https://www.newsweek.com/quantum-physics-light-photon-breakthrough-1789853">Newsweek</a>, <a href="https://www.canberratimes.com.au/story/8128707/scientists-closer-to-using-quantum-light-in-medicine/?cspt=1679341535%7C6e518f8744957f36a27be2443118f900">The Canberra Times</a>, <a href="https://phys.org/news/2023-03-scientists-door-quantum.html">Phys.org</a> and <a href="https://cosmosmagazine.com/science/physics/quantum-light-manipulating-interacting-photons/">COSMOS</a>!</p>
+    </div>
+  </div>
 
   <div class="col-sm-6 clearfix">
     <div class="well">
@@ -18,6 +30,10 @@
     </div>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Correlating photons using the collective nonlinear response of atoms weakly coupled to an optical mode</pubtit>
@@ -29,10 +45,6 @@
       <p> This work was highlighted by <a href="https://phys.org/news/2020-09-physicists-turnstile-photons.html">phys.org</a> and featured in <a href="https://www.nature.com/articles/s41566-020-00719-1">News and Views</a>!</p>
     </div>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <div class="well">
@@ -46,6 +58,10 @@
     </div>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Strongly Correlated Photon Transport in Waveguide Quantum Electrodynamics with Weakly Coupled Emitters</pubtit>
@@ -57,10 +73,6 @@
       <p> </p>
     </div>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <div class="well">
