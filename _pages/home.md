@@ -10,7 +10,6 @@ Welcome to the website of the Quantum Optics Theory Group at The University Sydn
 
 Our research is chiefly focused on understanding quantum many-body phenomena in quantum optical systems. These systems can be used to create new quantum states of light which can be useful for quantum technologies. 
 
- **We are currently looking for two PhD students to join our group!** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -27,10 +26,10 @@ Our research is chiefly focused on understanding quantum many-body phenomena in 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/PRX_boundCorr.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/NATPHYS_fig.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/schem.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/PRX_boundCorr.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/NPHOT_g2_antibunched.png" alt="Slide 3" />

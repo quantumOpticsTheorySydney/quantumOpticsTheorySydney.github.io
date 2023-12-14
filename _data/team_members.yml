@@ -1,32 +1,36 @@
 - name: Sahand Mahmoodian
   photo: sahand.jpg
-  info: ARC Future Fellow, (Jun 21 - )
-  email: sahand.mahmoodian@sydney.edu.au
+  info: ARC Future Fellow
   bio: See my [CV](/downloads/MahmoodianCV.pdf) here. 
   pubs: See [Google Scholar](https://scholar.google.com.au/citations?view_op=list_works&hl=en&hl=en&user=PVdQntQAAAAJ) for my publications.
 
-- name: Haoyuan (Jacky) Luo
+- name: Alexander Johnston
+  photo: alexanderJohnston_pic.jpg
+  info: Postdoctoral researcher
+  
+- name: Jacky Luo
   photo: jacky_pic.jpg
-  info: PhD candidate, (Jul 22 - )
+  info: PhD candidate
 
 
 - name: Yuktee Gupta
   photo: Yuktee_pic.jpg
-  info: PhD candidate, (Oct 22 - )
-
-
-- name: Hugo Stackhouse
-  photo: bio-photo.jpg
-  info: Honours student, (Feb 22 - )
-#  email: hluo9119@uni.sydney.edu.au
-
-- name: Noe Demazure
-  photo: noeDemazure_pic.jpg
-  info: Masters student (visiting from ENS Paris-Saclay), (Nov 22 - )
+  info: PhD candidate
   
-- name: Justin Yu
-  photo: justinYu_pic.png
-  info: Third-year BSc project (Feb 22 -)
+- name: Yangming Wang
+  photo: yangming_pic.jpg
+  info: PhD candidate
+  
+- name: Elaheh Mostaani
+  photo: elahehMostaani_pic.jpg
+  info: Research associate
+
+- name: Joshua Moore
+  photo: joshMoore_pic.jpeg
+  info: Research associate
+
+
+
   
   
   

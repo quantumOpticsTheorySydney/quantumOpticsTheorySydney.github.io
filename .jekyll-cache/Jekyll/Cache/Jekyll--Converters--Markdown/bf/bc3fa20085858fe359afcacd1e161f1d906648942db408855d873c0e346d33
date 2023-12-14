@@ -1,8 +1,6 @@
-I"<p>Welcome to the website of the Quantum Optics Theory Group at The University Sydney! As our name suggests, we are a quantum optics theory group working at <a href="http://sydney.edu.au">The University of Sydney</a> in the <a href="https://www.sydney.edu.au/science/schools/school-of-physics.html">School of Physics</a>. The group is led by Sahand Mahmoodian who is an Australian Research Council Future Fellow.</p>
+I"Å<p>Welcome to the website of the Quantum Optics Theory Group at The University Sydney! As our name suggests, we are a quantum optics theory group working at <a href="http://sydney.edu.au">The University of Sydney</a> in the <a href="https://www.sydney.edu.au/science/schools/school-of-physics.html">School of Physics</a>. The group is led by Sahand Mahmoodian who is an Australian Research Council Future Fellow.</p>
 
 <p>Our research is chiefly focused on understanding quantum many-body phenomena in quantum optical systems. These systems can be used to create new quantum states of light which can be useful for quantum technologies.</p>
-
-<p><strong>We are currently looking for two PhD students to join our group!</strong> <a href="http://localhost:4000/vacancies">(more info)</a></p>
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
@@ -19,10 +17,10 @@
     <!-- Items -->
     <div class="carousel-inner">
         <div class="item active">
-            <img src="http://localhost:4000/images/pubpic/PRX_boundCorr.png" alt="Slide 1" />
+            <img src="http://localhost:4000/images/pubpic/NATPHYS_fig.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/pubpic/schem.png" alt="Slide 2" />
+            <img src="http://localhost:4000/images/pubpic/PRX_boundCorr.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="http://localhost:4000/images/pubpic/NPHOT_g2_antibunched.png" alt="Slide 3" />

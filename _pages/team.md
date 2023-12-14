@@ -23,7 +23,6 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i> 
-  email: <{{ member.email }}> <br />
   {{ member.bio }} <br />
   {{ member.pubs }}
   
@@ -41,6 +40,12 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+# Alumni
+
+Noe Demazure  
+Hugo Stackhouse  
+Justin Yu
 
 
 
