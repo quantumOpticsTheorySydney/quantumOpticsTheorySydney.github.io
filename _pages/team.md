@@ -44,7 +44,8 @@ permalink: /team/
 # Alumni
 
 Noe Demazure  
-Hugo Stackhouse  
+Alexander Johnston
+Elaheh Mostaani  
 Justin Yu
 
 
