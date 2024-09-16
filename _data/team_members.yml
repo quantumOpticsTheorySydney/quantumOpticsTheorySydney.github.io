@@ -4,9 +4,6 @@
   bio: See my [CV](/downloads/MahmoodianCV.pdf) here. 
   pubs: See [Google Scholar](https://scholar.google.com.au/citations?view_op=list_works&hl=en&hl=en&user=PVdQntQAAAAJ) for my publications.
 
-- name: Alexander Johnston
-  photo: alexanderJohnston_pic.jpg
-  info: Postdoctoral researcher
   
 - name: Jacky Luo
   photo: jacky_pic.jpg
@@ -21,14 +18,14 @@
   photo: yangming_pic.jpg
   info: PhD candidate
   
-- name: Elaheh Mostaani
-  photo: elahehMostaani_pic.jpg
-  info: Research associate
 
 - name: Joshua Moore
   photo: joshMoore_pic.jpeg
   info: Research associate
 
+- name: Hugo Stackhouse
+  photo: bio-photo.jpeg
+  info: Research associate
 
 
   
