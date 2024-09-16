@@ -43,9 +43,10 @@ permalink: /team/
 
 # Alumni
 
-Noe Demazure  
-Alexander Johnston
-Elaheh Mostaani  
+
+Alexander Johnston\
+Noe Demazure\
+Elaheh Mostaani\
 Justin Yu
 
 

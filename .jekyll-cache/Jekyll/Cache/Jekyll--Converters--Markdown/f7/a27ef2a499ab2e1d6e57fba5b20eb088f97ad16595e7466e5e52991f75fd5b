@@ -1,4 +1,4 @@
-I"¦	<h1 id="group-members">Group Members</h1>
+I"m<h1 id="group-members">Group Members</h1>
 
 <p><strong>We are always looking for new Postdocs, PhD students, and Honours students to join the team</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
 
@@ -7,8 +7,7 @@
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/sahand.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Sahand Mahmoodian</h4>
-    <p><i>ARC Future Fellow, (Jun 21 - ) </i> 
-  email: <a href="mailto:sahand.mahmoodian@sydney.edu.au">sahand.mahmoodian@sydney.edu.au</a> <br />
+    <p><i>ARC Future Fellow </i> 
   See my <a href="/downloads/MahmoodianCV.pdf">CV</a> here. <br />
   See <a href="https://scholar.google.com.au/citations?view_op=list_works&amp;hl=en&amp;hl=en&amp;user=PVdQntQAAAAJ">Google Scholar</a> for my publications.</p>
 
@@ -16,9 +15,8 @@
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/jacky_pic.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Haoyuan (Jacky) Luo</h4>
-    <p><i>PhD candidate, (Jul 22 - ) </i> 
-  email: &lt;&gt; <br />
+    <h4>Jacky Luo</h4>
+    <p><i>PhD candidate </i> 
    <br /></p>
 
   </div>
@@ -30,17 +28,15 @@
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/Yuktee_pic.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Yuktee Gupta</h4>
-    <p><i>PhD candidate, (Oct 22 - ) </i> 
-  email: &lt;&gt; <br />
+    <p><i>PhD candidate </i> 
    <br /></p>
 
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Hugo Stackhouse</h4>
-    <p><i>Honours student, (Feb 22 - ) </i> 
-  email: &lt;&gt; <br />
+    <p><img src="http://localhost:4000/images/teampic/yangming_pic.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Yangming Wang</h4>
+    <p><i>PhD candidate </i> 
    <br /></p>
 
   </div>
@@ -50,19 +46,17 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/noeDemazure_pic.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Noe Demazure</h4>
-    <p><i>Masters student (visiting from ENS Paris-Saclay), (Nov 22 - ) </i> 
-  email: &lt;&gt; <br />
+    <p><img src="http://localhost:4000/images/teampic/joshMoore_pic.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Joshua Moore</h4>
+    <p><i>Research associate </i> 
    <br /></p>
 
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/justinYu_pic.png" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Justin Yu</h4>
-    <p><i>Third-year BSc project (Feb 22 -) </i> 
-  email: &lt;&gt; <br />
+    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Hugo Stackhouse</h4>
+    <p><i>Research associate </i> 
    <br /></p>
 
   </div>
@@ -71,8 +65,12 @@
 
 <h1 id="alumni">Alumni</h1>
 
-<p>Noe Demazure<br />
-Hugo Stackhouse<br />
-Justin Yu</p>
+<p>Alexander Johnston</p>
+
+<p>Noe Demazure</p>
+
+<p>Elaheh Mostaani</p>
+
+<p>Justin Yu</p>
 
 :ET
