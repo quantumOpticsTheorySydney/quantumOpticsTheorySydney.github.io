@@ -44,6 +44,7 @@ permalink: /team/
 # Alumni
 
 
+Angus Rutherford\
 Alexander Johnston\
 Noe Demazure\
 Elaheh Mostaani\
