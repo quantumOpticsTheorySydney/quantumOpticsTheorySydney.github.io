@@ -44,6 +44,7 @@ permalink: /team/
 # Alumni
 
 
+Joshua Moore\
 Angus Rutherford\
 Alexander Johnston\
 Noe Demazure\
