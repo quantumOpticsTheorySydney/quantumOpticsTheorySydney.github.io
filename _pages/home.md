@@ -33,7 +33,10 @@ Our research is chiefly focused on understanding quantum many-body phenomena in 
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/NPHOT_g2_antibunched.png" alt="Slide 3" />
-        </div>       
+        </div>    
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_0533.jpg" alt="Slide 4" />
+        </div>    
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
