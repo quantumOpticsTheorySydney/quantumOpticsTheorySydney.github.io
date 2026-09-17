@@ -20,11 +20,11 @@
 
 - name: Hugo Stackhouse
   photo: bio-photo.jpg
-  info: Research associate
+  info: PhD candidate
 
-- name: James Locke
-  photo: James_Locke_pic.png
-  info: Honours Student
+#- name: James Locke
+#  photo: James_Locke_pic.png
+#  info: Honours Student
 
 
 
